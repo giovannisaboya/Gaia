@@ -1,0 +1,9 @@
+{
+  "name": "Radar de Imóveis",
+  "description": "Plataforma de Inteligência Imobiliária com Assistente de IA integrado para análise de mercado.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ]
+}
